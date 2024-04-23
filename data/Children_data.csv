@@ -1,0 +1,203 @@
+﻿Name,Age,Gender,Grade,Health Condition,Favorite Hobby,Favorite Subject,Favorite Food,Family Activity
+Aarav,8,Male,3,None,Painting,Science,Pizza,Gardening together
+Ishika,10,Female,5,Asthma,Reading,Mathematics,Chocolate,Family movie night
+Kabir,7,Male,2,None,Soccer,Art,Pasta,Sunday picnics
+Diya,6,Female,1,Allergies,Dancing,Music,Ice Cream,Baking cookies together
+Yuvraj,9,Male,4,None,Cycling,History,Burgers,Board game evenings
+Naina,11,Female,6,Glasses,Gardening,English,Sandwiches,Storytelling sessions
+Aryan,8,Male,3,None,Swimming,Geography,Sushi,Saturday hikes
+Priya,12,Female,7,None,Cooking,Biology,Indian Curry,Family volunteer work
+Rohan,9,Male,4,None,Drawing,Computer Science,Tacos,Weekend biking
+Saanvi,6,Female,1,None,Singing,Art,Pancakes,Nature walks
+Advik,7,Male,2,None,Lego,Physics,Popcorn,DIY crafts with family
+Ishani,10,Female,5,None,Skating,Chemistry,Noodles,Family game night
+Vihaan,8,Male,3,Allergies,Football,Physical Education,Fried Rice,Sunday brunch outings
+Tanvi,11,Female,6,None,Horse Riding,Zoology,Pasta,Family camping trips
+Arjun,9,Male,4,None,Chess,Mathematics,Burgers,Movie marathon weekends
+Ananya,12,Female,7,None,Tennis,History,Sushi,Science experiments
+Vihaan,6,Male,1,None,Drawing,Music,Ice Cream,Picnics in the park
+Pari,7,Female,2,None,Swimming,English,Pizza,Baking cupcakes together
+Aarohi,10,Female,5,None,Gardening,Geography,Indian Curry,Family beach outings
+Krish,8,Male,3,None,Painting,Biology,Tacos,Family bike rides
+Ishaan,11,Male,6,None,Soccer,Computer Science,Noodles,Arts and crafts day
+Riya,9,Female,4,Allergies,Dancing,Physics,Sandwiches,Library visits
+Aradhya,12,Female,7,None,Cooking,Chemistry,Popcorn,Family karaoke nights
+Ayaan,6,Male,1,None,Lego,History,Pancakes,Nature hikes
+Ansh,7,Male,2,None,Cricket,Zoology,Fried Rice,Weekend fishing trips
+Kavya,10,Female,5,None,Reading,Mathematics,Sushi,Family bike rides
+Arnav,8,Male,3,None,Cycling,English,Ice Cream,Movie nights
+Diya,11,Female,6,None,Singing,Art,Pizza,Science experiments
+Advait,9,Male,4,None,Drawing,Music,Burgers,Sunday brunch outings
+Anika,6,Female,1,None,Painting,Geography,Pasta,Park playdates
+Kabir,7,Male,2,None,Football,Biology,Tacos,Family cooking sessions
+Ananya,10,Female,5,None,Dancing,Computer Science,Chocolate,Board game nights
+Krish,8,Male,3,None,Chess,Physics,Ice Cream,Science fair projects
+Ishita,11,Female,6,None,Skating,Chemistry,Indian Curry,Family talent shows
+Arnav,9,Male,4,None,Basketball,History,Burgers,Weekend road trips
+Avni,12,Female,7,None,Reading,Mathematics,Pizza,Family cooking competitions
+Reyansh,6,Male,1,None,Lego,Art,Popcorn,Movie nights
+Kiara,7,Female,2,None,Swimming,Science,Noodles,Nature hikes
+Yash,10,Male,5,None,Drawing,English,Sushi,Family picnics
+Tara,8,Female,3,None,Badminton,Geography,Pasta,Arts and crafts day
+Dev,11,Male,6,None,Cooking,History,Ice Cream,Family storytelling
+Anvi,9,Female,4,None,Horse Riding,Biology,Burgers,Saturday morning hikes
+Kabir,12,Male,7,None,Football,Computer Science,Indian Curry,Family game nights
+Riya,6,Female,1,None,Painting,Physics,Chocolate,Weekend library visits
+Vivaan,7,Male,2,None,Cricket,Mathematics,Pizza,Family camping trips
+Zara,10,Female,5,None,Skating,Chemistry,Tacos,Beach outings
+Arjun,8,Male,3,None,Basketball,Music,Ice Cream,Movie marathons
+Nitya,11,Female,6,None,Singing,Zoology,Sushi,Science experiments
+Reyansh,9,Male,4,None,Lego,History,Pancakes,Family picnics
+Myra,6,Female,1,None,Dancing,English,Burgers,Family art sessions
+Aarav,7,Male,2,None,Soccer,Geography,Pasta,Outdoor sports
+Aadhya,10,Female,5,None,Gardening,Physics,Chocolate,Family board games
+Aarav,8,Male,3,None,Painting,Computer Science,Ice Cream,Movie nights
+Ishika,11,Female,6,None,Reading,Chemistry,Sushi,Family karaoke nights
+Kabir,9,Male,4,None,Chess,Mathematics,Pizza,Science fair projects
+Diya,12,Female,7,None,Dancing,History,Pancakes,Weekend hikes
+Yuvraj,6,Male,1,None,Cycling,Biology,Tacos,Family movie nights
+Naina,7,Female,2,None,Gardening,Art,Pasta,Sunday brunch outings
+Aryan,10,Male,5,None,Swimming,English,Popcorn,Family picnics
+Priya,8,Female,3,None,Cooking,Science,Noodles,Family cooking sessions
+Rohan,11,Male,6,None,Drawing,Geography,Sushi,Weekend family hikes
+Saanvi,9,Female,4,None,Singing,Physics,Chocolate,Art and craft days
+Advik,12,Male,7,None,Lego,Chemistry,Pizza,Family game nights
+Ishani,6,Female,1,None,Skating,Mathematics,Ice Cream,Family bike rides
+Vihaan,7,Male,2,None,Football,Computer Science,Pasta,Movie nights
+Tanvi,10,Female,5,None,Horse Riding,History,Indian Curry,Family beach outings
+Arjun,8,Male,3,None,Chess,Chemistry,Burgers,Science experiments
+Ananya,11,Female,6,None,Tennis,Physics,Tacos,Family sports day
+Vihaan,9,Male,4,None,Painting,Art,Popcorn,Movie marathons
+Pari,12,Female,7,None,Swimming,Biology,Chocolate,Baking with family
+Aarohi,6,Female,1,None,Dancing,English,Pizza,Park playdates
+Krish,7,Male,2,None,Cycling,Geography,Noodles,Family road trips
+Ishaan,10,Male,5,None,Drawing,Music,Sushi,Science experiments
+Riya,8,Female,3,None,Singing,History,Ice Cream,Family talent shows
+Aradhya,11,Female,6,None,Cooking,Chemistry,Pasta,Family dinner nights
+Ayaan,9,Male,4,None,Lego,Physics,Burgers,Movie nights
+Ansh,12,Male,7,None,Cricket,Computer Science,Pancakes,Family baking sessions
+Kavya,6,Female,1,None,Reading,Zoology,Tacos,Nature walks
+Arnav,7,Male,2,None,Football,Mathematics,Indian Curry,Sunday picnics
+Diya,10,Female,5,None,Gardening,Science,Popcorn,Family movie nights
+Advait,8,Male,3,None,Drawing,Geography,Chocolate,Weekend arts and crafts
+Anika,11,Female,6,None,Horse Riding,English,Pizza,Family game nights
+Kabir,9,Male,4,None,Chess,Physics,Ice Cream,Science experiments
+Ananya,12,Female,7,None,Dancing,Chemistry,Sushi,Family karaoke nights
+Krish,6,Male,1,None,Painting,Mathematics,Noodles,Family bike rides
+Ishita,7,Female,2,None,Skating,Computer Science,Tacos,Movie nights
+Arnav,10,Male,5,None,Soccer,History,Burgers,Weekend beach outings
+Avni,8,Female,3,None,Reading,Chemistry,Pasta,Cooking with family
+Reyansh,11,Male,6,None,Drawing,Physics,Pizza,Family game nights
+Kiara,9,Female,4,None,Swimming,Biology,Sushi,Nature hikes
+Yash,12,Male,7,None,Cycling,English,Ice Cream,Movie marathons
+Tara,6,Female,1,None,Dancing,Art,Chocolate,Family picnics
+Dev,7,Male,2,None,Cricket,Science,Pancakes,Nature walks
+Anvi,10,Female,5,None,Gardening,Geography,Popcorn,Family board game nights
+Kabir,8,Male,3,None,Chess,Music,Pasta,Science experiments
+Riya,11,Female,6,None,Singing,Chemistry,Burgers,Family movie nights
+Vivaan,9,Male,4,None,Football,Mathematics,Ice Cream,Weekend sports
+Zara,12,Female,7,None,Skating,Computer Science,Sushi,Family cooking competitions
+Arjun,6,Male,1,None,Basketball,History,Pizza,Family sports day
+Nitya,7,Female,2,None,Reading,Zoology,Tacos,Weekend library visits
+Reyansh,10,Male,5,None,Lego,Physics,Chocolate,Weekend camping trips
+Myra,8,Female,3,None,Dancing,Chemistry,Sushi,Family talent shows
+Aarav,11,Male,6,None,Soccer,Biology,Pasta,Weekend hiking
+Aadhya,9,Female,4,None,Painting,English,Popcorn,Family art sessions
+Aarav,12,Male,7,None,Cycling,Music,Indian Curry,Movie marathon nights
+Ishika,6,Female,1,None,Reading,Geography,Burgers,Family beach outings
+Kabir,7,Male,2,None,Football,Mathematics,Ice Cream,Sunday picnics
+Diya,10,Female,5,None,Gardening,Science,Pizza,Baking with family
+Yuvraj,8,Male,3,None,Drawing,History,Tacos,Family board game nights
+Naina,11,Female,6,None,Singing,Chemistry,Pancakes,Family talent shows
+Aryan,9,Male,4,None,Chess,Physics,Chocolate,Movie nights
+Priya,6,Female,1,None,Cooking,Computer Science,Sushi,Nature walks
+Rohan,7,Male,2,None,Drawing,Biology,Pasta,Family cooking sessions
+Saanvi,10,Female,5,None,Singing,Music,Popcorn,Family karaoke nights
+Advik,8,Male,3,None,Lego,Geography,Indian Curry,Family dinner nights
+Ishani,11,Female,6,None,Skating,English,Pizza,Family game nights
+Vihaan,9,Male,4,None,Painting,Chemistry,Ice Cream,Weekend movie marathons
+Tanvi,12,Female,7,None,Horse Riding,Physics,Burgers,Beach outings
+Arjun,6,Male,1,None,Chess,Mathematics,Chocolate,Family art sessions
+Ananya,7,Female,2,None,Dancing,History,Pasta,Family storytelling
+Vihaan,10,Male,5,None,Swimming,Science,Tacos,Weekend hikes
+Pari,8,Female,3,None,Swimming,Geography,Popcorn,Family movie nights
+Aarohi,11,Female,6,None,Gardening,Biology,Sushi,Family talent shows
+Krish,9,Male,4,None,Painting,Computer Science,Pizza,Family board game nights
+Ishaan,12,Male,7,None,Drawing,Chemistry,Ice Cream,Weekend movie marathons
+Riya,6,Female,1,None,Singing,Physics,Chocolate,Family picnic days
+Aradhya,7,Female,2,None,Skating,Music,Noodles,Sunday picnics
+Ayaan,10,Male,5,None,Lego,English,Sushi,Family game nights
+Ansh,8,Male,3,None,Cricket,Chemistry,Pasta,Science experiments
+Kavya,11,Female,6,None,Reading,Physics,Indian Curry,Family movie nights
+Arnav,9,Male,4,None,Football,Zoology,Pancakes,Weekend picnics
+Diya,12,Female,7,None,Dancing,Mathematics,Burgers,Family cooking sessions
+Advait,6,Male,1,None,Drawing,History,Pizza,Family movie nights
+Anika,7,Female,2,None,Horse Riding,Geography,Ice Cream,Family game nights
+Kabir,10,Male,5,None,Chess,Science,Chocolate,Family science experiments
+Ananya,8,Female,3,None,Dancing,Computer Science,Tacos,Movie nights
+Krish,11,Male,6,None,Painting,English,Sushi,Family karaoke nights
+Ishita,9,Female,4,None,Skating,Physics,Pasta,Nature hikes
+Arnav,12,Male,7,None,Soccer,Chemistry,Pizza,Weekend beach outings
+Avni,6,Female,1,None,Reading,Mathematics,Burgers,Sunday picnics
+Reyansh,7,Male,2,None,Lego,Zoology,Ice Cream,Family movie nights
+Kiara,10,Female,5,None,Swimming,History,Pancakes,Family brunch outings
+Yash,8,Male,3,None,Drawing,Music,Noodles,Family art sessions
+Tara,11,Female,6,None,Dancing,Physics,Indian Curry,Family dinner nights
+Dev,9,Male,4,None,Cricket,Chemistry,Pizza,Science fair projects
+Anvi,12,Female,7,None,Gardening,Biology,Sushi,Weekend nature walks
+Kabir,6,Male,1,None,Football,Geography,Chocolate,Family game nights
+Riya,7,Female,2,None,Painting,Computer Science,Pasta,Family movie nights
+Vivaan,10,Male,5,None,Swimming,Music,Ice Cream,Weekend karaoke nights
+Zara,8,Female,3,None,Skating,Chemistry,Sushi,Family board game nights
+Arjun,11,Male,6,None,Basketball,Physics,Burgers,Weekend family games
+Nitya,9,Female,4,None,Reading,History,Pizza,Arts and crafts day
+Reyansh,12,Male,7,None,Drawing,Geography,Chocolate,Family talent shows
+Myra,6,Female,1,None,Dancing,Zoology,Pancakes,Family movie nights
+Aarav,7,Male,2,None,Soccer,English,Sushi,Family game nights
+Aadhya,10,Female,5,None,Gardening,Chemistry,Ice Cream,Weekend beach outings
+Aarav,8,Male,3,None,Painting,Physics,Burgers,Family dinner nights
+Ishika,11,Female,6,None,Reading,Computer Science,Pasta,Science experiments
+Kabir,9,Male,4,None,Football,Music,Chocolate,Family karaoke nights
+Diya,12,Female,7,None,Gardening,Geography,Sushi,Family cooking sessions
+Yuvraj,6,Male,1,None,Drawing,Mathematics,Pizza,Movie nights
+Naina,7,Female,2,None,Singing,Zoology,Ice Cream,Family game nights
+Aryan,10,Male,5,None,Swimming,History,Pancakes,Weekend bike rides
+Priya,8,Female,3,None,Cooking,Science,Indian Curry,Family dinner nights
+Rohan,11,Male,6,None,Drawing,Chemistry,Noodles,Family movie nights
+Saanvi,9,Female,4,None,Singing,Physics,Chocolate,Weekend talent shows
+Advik,12,Male,7,None,Lego,English,Pizza,Family game nights
+Ishani,6,Female,1,None,Skating,Biology,Sushi,Family beach outings
+Vihaan,7,Male,2,None,Football,Computer Science,Pasta,Weekend sports
+Tanvi,10,Female,5,None,Horse Riding,Mathematics,Ice Cream,Family movie nights
+Arjun,8,Male,3,None,Chess,Physics,Burgers,Science experiments
+Ananya,11,Female,6,None,Tennis,Chemistry,Chocolate,Family karaoke nights
+Vihaan,9,Male,4,None,Painting,Geography,Pizza,Weekend family outings
+Pari,12,Female,7,None,Swimming,History,Noodles,Family cooking sessions
+Aarohi,6,Female,1,None,Dancing,English,Sushi,Family movie nights
+Krish,7,Male,2,None,Cycling,Biology,Pancakes,Nature hikes
+Ishaan,10,Male,5,None,Drawing,Music,Chocolate,Family game nights
+Riya,8,Female,3,None,Singing,Chemistry,Pasta,Weekend movie marathons
+Aradhya,11,Female,6,None,Cooking,Physics,Ice Cream,Family talent shows
+Ayaan,9,Male,4,None,Lego,Zoology,Sushi,Sunday picnics
+Ansh,12,Male,7,None,Cricket,Computer Science,Burgers,Science experiments
+Kavya,6,Female,1,None,Reading,Geography,Pizza,Family movie nights
+Arnav,7,Male,2,None,Football,Mathematics,Noodles,Weekend picnics
+Diya,10,Female,5,None,Gardening,Science,Chocolate,Family cooking sessions
+Advait,8,Male,3,None,Drawing,Chemistry,Ice Cream,Family movie nights
+Anika,11,Female,6,None,Horse Riding,Physics,Pizza,Family game nights
+Kabir,9,Male,4,None,Chess,English,Pasta,Weekend art sessions
+Ananya,12,Female,7,None,Dancing,Computer Science,Burgers,Family movie nights
+Krish,6,Male,1,None,Painting,History,Pancakes,Nature hikes
+Ishita,7,Female,2,None,Skating,Chemistry,Sushi,Family beach outings
+Arnav,10,Male,5,None,Soccer,Physics,Chocolate,Family game nights
+Avni,8,Female,3,None,Reading,Biology,Pasta,Weekend movie marathons
+Reyansh,11,Male,6,None,Drawing,English,Ice Cream,Family talent shows
+Kiara,9,Female,4,None,Swimming,Chemistry,Noodles,Science experiments
+Yash,12,Male,7,None,Cycling,Music,Sushi,Family karaoke nights
+Tara,6,Female,1,None,Dancing,Computer Science,Burgers,Family movie nights
+Dev,7,Male,2,None,Cricket,Mathematics,Pizza,Weekend game nights
+Anvi,10,Female,5,None,Gardening,Geography,Ice Cream,Weekend beach outings
+Kabir,8,Male,3,None,Chess,Physics,Chocolate,Family board game nights
+Riya,11,Female,6,None,Singing,Chemistry,Sushi,Family talent shows
+Vivaan,9,Male,4,None,Football,Zoology,Pancakes,Movie nights
+Zara,12,Female,7,None,Skating,History,Pasta,Weekend family outings
