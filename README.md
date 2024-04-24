@@ -48,4 +48,8 @@ Family Activity
 - **requirements.txt:** List of Python dependencies.
 
 ### Demo
+<video width="500" controls>
+  <source src="https://github.com/m-rishab/Chatbot-using-csv-DistilBERT-model-/assets/113618652/37f9aebd-b611-4206-ab1d-1f5870628d22" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
