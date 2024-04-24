@@ -46,8 +46,3 @@ Family Activity
 - **models/:** Directory containing the fine-tuned DistilBERT model.
 - **README.md:** Detailed information about the project.
 - **requirements.txt:** List of Python dependencies.
-
-### Demo
-<img src="https://github.com/m-rishab/Chatbot-using-csv-DistilBERT-model-/assets/113618652/37f9aebd-b611-4206-ab1d-1f5870628d22" alt="Chatbot Demo" width="500">
-
-
