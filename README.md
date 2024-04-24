@@ -41,11 +41,11 @@ Favorite Food,
 Family Activity
 
 ### Code Structure:
-*app.py: Main Streamlit app for the chatbot interface.
-*data/Children_data.csv: Dataset containing children's details.
-*models/: Directory containing the fine-tuned DistilBERT model.
-*README.md: Detailed information about the project.
-*requirements.txt: List of Python dependencies.
+*app.py:* Main Streamlit app for the chatbot interface.
+*data/Children_data.csv:* Dataset containing children's details.
+*models/:* Directory containing the fine-tuned DistilBERT model.
+*README.md:* Detailed information about the project.
+*requirements.txt:* List of Python dependencies.
 
 ### Demo
 
