@@ -30,14 +30,14 @@ This project consists of the following components:
 ### Supported Queries
 ---Users can ask questions about a child's:
 
-Name
-Age
-Gender
-Grade
-Health Condition
-Favorite Hobby
-Favorite Subject
-Favorite Food
+Name,
+Age,
+Gender,
+Grade,
+Health Condition,
+Favorite Hobby,
+Favorite Subject,
+Favorite Food,
 Family Activity
 
 ### Code Structure:
